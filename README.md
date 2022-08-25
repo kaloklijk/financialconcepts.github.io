@@ -3,7 +3,7 @@
 
 
 ```diff
-# financial concepts
+! financial concepts
 ```
 
 A tutorial on capital marketing
